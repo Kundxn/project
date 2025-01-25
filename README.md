@@ -44,7 +44,8 @@ This project aims to develop an automated agriculture robot to assist farmers in
 - We extend our gratitude to Mr Ankit Garg for their contributions and support towards the development of this project.
 
 
-  Hardware requirements:-
+
+## Hardware requirements:-
 
     ESP32: The ESP32 is a highly integrated system-on-chip (SoC) designed by Espressif Systems. It is widely used for IoT (Internet of Things) applications due to its low power consumption, dual-core processor, Wi-Fi, and Bluetooth capabilities. (https://www.espressif.com/en/products/socs/esp32#:~:text=ESP32%20is%20highly%2Dintegrated%20with,Circuit%20Board%20(PCB)%20requirements.)
 
@@ -69,5 +70,88 @@ This project aims to develop an automated agriculture robot to assist farmers in
     Omni Wheels: Omni wheels, also known as mecanum wheels, are special wheels with rollers mounted on their circumference at an angle. They allow a vehicle to move in any direction without changing its orientation, making them ideal for omnidirectional movement. (https://en.wikipedia.org/wiki/Omni_wheel)
 
     Battery: A battery is a device that stores chemical energy and converts it into electrical energy when needed. It consists of one or more electrochemical cells, which generate a flow of electrons through an external circuit. (https://en.wikipedia.org/wiki/Electric_battery)
+
+
+
+##  API Documentation
+
+1. Weather APIs:
+
+    OpenWeatherMap API: Provides weather data, including current weather, forecasts, and historical data. OpenWeatherMap API Documentation
+
+    Weatherstack API: Offers current weather data, forecasts, and historical weather data. Weatherstack API Documentation
+
+    AccuWeather API: Provides weather forecasts, radar, maps, and severe weather alerts. AccuWeather API Documentation
+
+2. GPS APIs:
+
+    Google Maps API: Offers mapping services, geolocation, and route planning. Google Maps API Documentation
+
+    Mapbox API: Provides mapping and location-based services, including customizable maps and navigation. Mapbox API Documentation
+
+    HERE API: Offers mapping, geocoding, and location-based services for developers. HERE API Documentation
+
+3. Crop Monitoring APIs:
+
+    Planet API: Provides satellite imagery and analytics for agriculture and environmental monitoring. Planet API Documentation
+
+    Descartes Labs API: Offers geospatial data and analytics for agriculture, including crop monitoring. Descartes Labs API Documentation
+
+    CropX API: Provides soil monitoring and irrigation optimization solutions for agriculture. CropX API Documentation
+
+4. Soil Moisture APIs:
+
+    Sentek API: Offers soil moisture monitoring solutions for agriculture and environmental applications. Sentek API Documentation
+
+    Teralytic API: Provides soil sensor technology for precision agriculture and soil health monitoring. Teralytic API Documentation
+
+    Decagon API: Offers soil moisture sensors and environmental monitoring solutions. Decagon API Documentation
+
+5. Plant Disease Detection APIs:
+
+    PlantVillage API: Provides plant disease diagnosis and management solutions for farmers. PlantVillage API Documentation
+
+    AgriWebb API: Offers farm management software with plant health monitoring features. AgriWebb API Documentation
+
+    Taranis API: Provides precision agriculture solutions, including plant disease detection using aerial imagery. Taranis API Documentation
+
+6. Farm Management APIs:
+
+    FarmLogs API: Offers farm management software with features for crop planning and monitoring. FarmLogs API Documentation
+
+    Granular API: Provides farm management software for planning, operations, and analysis. Granular API Documentation
+
+    Agworld API: Offers farm management software with features for planning, budgeting, and reporting. Agworld API Documentation
+
+7. IoT Platform APIs:
+
+    AWS IoT API: Provides IoT services on the Amazon Web Services (AWS) platform, including device management and data processing. AWS IoT API Documentation
+
+    Microsoft Azure IoT API: Offers IoT services and solutions on the Microsoft Azure cloud platform. Microsoft Azure IoT API Documentation
+
+    IBM Watson IoT Platform API: Provides IoT services and analytics using IBM Watson artificial intelligence. IBM Watson IoT Platform API Documentation
+
+8. Remote Control APIs:
+
+    MQTT API: MQTT is a lightweight messaging protocol used for communication between devices in IoT systems. MQTT Documentation
+
+    RESTful APIs provided by robot manufacturers: Varied based on the manufacturer. These APIs enable remote control and management of robotic devices.
+
+9. Market Data APIs:
+
+    USDA Market News API: Provides agricultural market data and reports from the United States Department of Agriculture. USDA Market News API Documentation
+
+    AgMarketplace API: Offers market data and trading solutions for agricultural commodities. AgMarketplace API Documentation
+
+    AgriCharts API: Provides agricultural market data, including futures, options, and cash prices. AgriCharts API Documentation
+
+10. Livestock Monitoring APIs:
+
+    Herdwatch API: Offers farm management software with features for livestock monitoring and compliance. Herdwatch API Documentation
+
+    Allflex Livestock Monitoring API: Provides livestock monitoring solutions, including RFID tags and data analytics. Allflex Livestock Monitoring API Documentation
+
+    eCow Livestock Monitoring API: Offers livestock monitoring solutions for health, productivity, and welfare. eCow Livestock Monitoring API Documentation
+
 
 
